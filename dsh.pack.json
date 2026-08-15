@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "name": "DSH Essentials",
+  "description": "A curated starter set that gives DeepSeek Harness a complete, Codex-grade capability baseline: sidebar workspace UI, Codex-style @path references, vision, architecture-aware coding, graph memory, usage and quota dashboards, a security audit, theming, and turn notifications. Every item is admitted by the DSH Plugin Marketplace catalog; script-gated and manual items are marked honestly and never auto-consented.",
+  "items": [
+    "omdsh-dev/DSH-better-sidebar",
+    "omdsh-dev/dsh-at-file",
+    "liustack/modlens",
+    "GanyuanRan/Aegis",
+    "adoresever/graph-memory",
+    "NanmiCoder/dsh-agent-teams",
+    "Ychris12138/dsh-usage-stats",
+    "omdsh-dev/dsh-security-audit",
+    "KinGao294/dsh-skin",
+    "omdsh-dev/dsh-notification"
+  ]
+}
