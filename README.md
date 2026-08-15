@@ -30,7 +30,7 @@ Inclusion states a fact about the catalog ("highest star count in category X at 
 | provider | [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider) | 12 | Script review (`prepare`) |
 | security | [bill9109/dsh-web-ui-notify](https://github.com/bill9109/dsh-web-ui-notify) | 12 | One-click |
 
-Composition: **4 one-click · 2 script-review · 3 manual — 9 items.** The marketplace shows each item's real install status and proceeds serially, stopping at the first failure. Script-review items display their script bodies verbatim and require your per-item consent; manual items have no automatic install path and the marketplace links their repositories instead. The pack itself never consents on your behalf.
+Composition: **5 one-click · 2 script-review · 2 manual — 9 items.** The marketplace shows each item's real install status and proceeds serially, stopping at the first failure. Script-review items display their script bodies verbatim and require your per-item consent; manual items have no automatic install path and the marketplace links their repositories instead. The pack itself never consents on your behalf.
 
 ## For the marketplace scanner
 
