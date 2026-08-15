@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "name": "DSH Essentials",
-  "description": "A curated starter set that gives DeepSeek Harness a complete, Codex-grade capability baseline: sidebar workspace UI, Codex-style @path references, vision, architecture-aware coding, multi-agent teams, usage and quota dashboards, a security audit, theming, and turn notifications. Every item is admitted by the DSH Plugin Marketplace catalog; script-gated and manual items are marked honestly and never auto-consented. Curation is 宁缺毋滥: capability slots with no proven plugin stay empty.",
+  "name": "DSH Category Star Leaders",
+  "description": "The highest-starred catalog-admitted entry of each DSH Plugin Marketplace category, mechanically selected from the 2026-08-15 catalog snapshot (2,134 admitted entries). Inclusion states a fact about the catalog; it is not an evaluation or a recommendation. 本整合包按 2026-08-15 目录快照（2134 条收录）机械选取每个分类中 star 数最高的收录条目；收录是事实陈述，不构成评价或推荐。",
   "items": [
+    "dancingmemory/dskin",
+    "sandbaseai/sandbase-harness",
     "omdsh-dev/DSH-better-sidebar",
-    "omdsh-dev/dsh-at-file",
-    "liustack/modlens",
-    "GanyuanRan/Aegis",
-    "NanmiCoder/dsh-agent-teams",
+    "superdesigndev/treg",
+    "Mars-Sea/dsh-commandcode-provider",
     "Ychris12138/dsh-usage-stats",
-    "omdsh-dev/dsh-security-audit",
-    "KinGao294/dsh-skin",
-    "omdsh-dev/dsh-notification"
+    "liustack/modlens",
+    "bill9109/dsh-web-ui-notify",
+    "tencent-connect/dsh-qqbot"
   ]
 }
