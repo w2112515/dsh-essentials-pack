@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "name": "DSH Category Star Leaders",
-  "description": "The highest-starred catalog-admitted entry of each DSH Plugin Marketplace category, mechanically selected from the 2026-08-15 catalog snapshot (2,134 admitted entries). Inclusion states a fact about the catalog; it is not an evaluation or a recommendation. 本整合包按 2026-08-15 目录快照（2134 条收录）机械选取每个分类中 star 数最高的收录条目；收录是事实陈述，不构成评价或推荐。",
+  "description": "The highest-starred catalog-admitted entry of each DSH Plugin Marketplace category, mechanically selected from the 2026-08-17 catalog snapshot (3,543 admitted entries). Inclusion states a fact about the catalog; it is not an evaluation or a recommendation. 本整合包按 2026-08-17 目录快照（3543 条收录）机械选取每个分类中 star 数最高的收录条目；收录是事实陈述，不构成评价或推荐。",
   "items": [
-    "dancingmemory/dskin",
+    "kingOfSoySauce/dsh-liang-skin",
     "sandbaseai/sandbase-harness",
     "omdsh-dev/DSH-better-sidebar",
     "superdesigndev/treg",
     "Mars-Sea/dsh-commandcode-provider",
-    "Ychris12138/dsh-usage-stats",
+    "Han-1413141/dsh-cost-meter",
     "liustack/modlens",
-    "bill9109/dsh-web-ui-notify",
+    "THEWOLFWALKER/dsh-notifier",
     "tencent-connect/dsh-qqbot"
   ]
 }

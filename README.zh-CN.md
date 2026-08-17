@@ -12,7 +12,7 @@
 2. 按市场分类分组（主题、记忆、界面、工具、模型接入、用量、技能、安全、消息渠道）。
 3. 取每个分类中 GitHub star 数最高的一条。
 
-数据来源：**2026-08-15** 目录快照（2134 条收录）。star 数随时间变化；下表是快照时刻的事实，每行链接到仓库页面可查看当前数值。
+数据来源：**2026-08-17** 目录快照（3543 条收录）。star 数随时间变化；下表是快照时刻的事实，每行链接到仓库页面可查看当前数值。
 
 收录仅陈述目录事实（"快照日期时 X 分类 star 数最高"）。**不构成评价、背书或推荐。**
 
@@ -20,15 +20,15 @@
 
 | 分类 | 插件 | Stars（快照） | 安装方式（目录事实） |
 | --- | --- | --- | --- |
-| 技能 | [liustack/modlens](https://github.com/liustack/modlens) | 1800 | 一键安装 |
-| 界面 | [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 1138 | 需脚本审阅（`prepare`） |
-| 记忆 | [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 588 | 手动 |
-| 工具 | [superdesigndev/treg](https://github.com/superdesigndev/treg) | 415 | 一键安装 |
-| 消息渠道 | [tencent-connect/dsh-qqbot](https://github.com/tencent-connect/dsh-qqbot) | 35 | 手动 |
-| 用量 | [Ychris12138/dsh-usage-stats](https://github.com/Ychris12138/dsh-usage-stats) | 32 | 一键安装 |
-| 主题 | [dancingmemory/dskin](https://github.com/dancingmemory/dskin) | 22 | 一键安装 |
-| 模型接入 | [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider) | 12 | 需脚本审阅（`prepare`） |
-| 安全 | [bill9109/dsh-web-ui-notify](https://github.com/bill9109/dsh-web-ui-notify) | 12 | 一键安装 |
+| 技能 | [liustack/modlens](https://github.com/liustack/modlens) | 2486 | 一键安装 |
+| 界面 | [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 1720 | 需脚本审阅（`prepare`） |
+| 记忆 | [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 608 | 手动 |
+| 工具 | [superdesigndev/treg](https://github.com/superdesigndev/treg) | 428 | 一键安装 |
+| 主题 | [kingOfSoySauce/dsh-liang-skin](https://github.com/kingOfSoySauce/dsh-liang-skin) | 66 | 一键安装 |
+| 用量 | [Han-1413141/dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) | 57 | 一键安装 |
+| 消息渠道 | [tencent-connect/dsh-qqbot](https://github.com/tencent-connect/dsh-qqbot) | 53 | 手动 |
+| 模型接入 | [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider) | 44 | 需脚本审阅（`prepare`） |
+| 安全 | [THEWOLFWALKER/dsh-notifier](https://github.com/THEWOLFWALKER/dsh-notifier) | 31 | 一键安装 |
 
 构成：**5 一键 · 2 需脚本审阅 · 2 手动 —— 共 9 项。** 市场会逐项显示真实安装状态，串行执行，首个失败即停止。需脚本审阅的条目会原文展示脚本内容并要求逐项同意；手动条目没有自动安装路径，市场会链接到对应仓库。整合包本身不代替你做任何同意。
 
